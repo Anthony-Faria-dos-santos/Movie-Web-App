@@ -25,13 +25,8 @@ node_modules/
 .env.test.local
 .env.production.local
 .env.local
+.env.bk
 sqitch.conf
-
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
-#  opencommit config file
-.opencommit
-
-
-.env.bk
