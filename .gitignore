@@ -30,4 +30,8 @@ sqitch.conf
 # Stores VSCode versions used for testing VSCode extensions
 .vscode-test
 
+#  opencommit config file
+.opencommit
+
+
 .env.bk
