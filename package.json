@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "description": "Mongoose App for movie fans",
   "dependencies": {
     "express": "^4.19.2",
